@@ -20,6 +20,8 @@ Because when everything else falls apart, the only question worth answering is: 
 
 And **grain** answers, without fanfare: **yes. once more.**
 
+![grain in action](assets/screenshot.webp)
+
 ## Philosophy
 
 Grain isn’t built for optimization—it’s built for intention. It treats focus as a **ritual**, not a race.
