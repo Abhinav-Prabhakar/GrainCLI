@@ -3,16 +3,13 @@ _(and why it matters, even if nothing else does)_
 
 When I failed JEE for the last time, I wasn’t just grieving a test. I was mourning a **version of myself** I thought I’d become.  
 
-In that stillness, when motivation became meaningless, I realized something quieter might survive ambition: **ritual**.
-
-  
+But somewhere in that stillness, I found something that didn't need motivation to exist: **ritual.**
 
 *grain* is not a productivity app. It’s a **companion** for the slow, deliberate act of continuing. It runs in your terminal. It doesn’t sync. It doesn’t push notifications or pretend to be your friend.
 
 It just counts—**one hour, one credit at a time**.
 
-You earn **90 credits a week**. Surplus becomes your break time. There are no hacks, no gamification. Just the **quiet math** of effort and rest.
-
+You earn **90 credits a week**. Surplus becomes your break time.
 
 Because when everything else falls apart, the only question worth answering is: _can I still show up?_
 
@@ -24,17 +21,34 @@ And **grain** answers, without fanfare: **yes. once more.**
 
 ## Philosophy
 
-Grain isn’t built for optimization—it’s built for intention. It treats focus as a **ritual**, not a race.
+Ahh, the age-old millennium question. Why does the world need yet another time-logging tool for studying?
 
-At its core is a quiet loop:
+#### What grain is
 
-1. **Log:** Record your study or break credits with minimal friction.
+I built this around a simple idea: consistency shouldn't depend on how motivated you feel. It should be something you can return to, even on the days when ambition feels distant.
 
-2. **Read:** Review your daily or weekly patterns.
+It treats time as something you consciously invest. Every hour counts. Every credit represents time spent doing what you said mattered.
 
-3. **Reflect:** Adjust your rhythm—when to lean in, and when to pause.
+It also recognises that effort needs rest. Your time isn't an infinite resource, and neither should your expectations of yourself be.
 
-No sync, no noise. Just your effort, your data, and a clean terminal interface that stays out of your way.
+#### What grain isn't
+
+There are no streaks or notifications. That is by design.
+
+It won't tell you to optimise every minute, or wake up at 5 AM.
+
+It doesn't measure your worth, your potential, or how much you've accomplished compared to someone else.
+
+And it certainly won't manufacture motivation for you.
+
+#### What it comes down to
+
+Grain doesn't care about your best day. It cares whether you can come back after a bad one.
+
+Work when you can. Rest when you've earned it. Start again when you're ready.
+
+**No grand promises. Just the quiet discipline of continuing.**
+
 ## Installation
 
 1.  **Ensure Go is installed:** You need Go (version 1.18 or later recommended). Check with `go version`.
